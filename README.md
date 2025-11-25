@@ -1,4 +1,4 @@
-Atividade: Estruturas de Repetição e Lógica em Dart
+Atividade: Estruturas de repetição e lógica em Dart
 
 Este repositório contém as soluções para a lista de exercícios de Introdução ao Dart, da disciplina de Programação para Dispositivos Móveis.
 
